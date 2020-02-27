@@ -21,10 +21,28 @@
     color: white;
   }
 
-  .main-nav {
-    background-color: #007bff;
+  #main-nav {
+    background-color: black !important;
 }
   
+.navbar-brand {
+    color: white !important;
+}
+
+.btn {
+    background-color: black;
+    color: white !important;
+}
+
+.font-italic {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal !important;
+}
+
+.nav-link, .navbar-toggler-icon {
+    color: white !important;
+}
   .App-link {
     color: #61dafb;
   }
