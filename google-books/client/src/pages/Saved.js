@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Jumbotron from "../components/Jumbotron";
 import Card from "../components/Card";
 import Book from "../components/Book";
 import Footer from "../components/Footer";
