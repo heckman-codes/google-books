@@ -69,8 +69,8 @@ class Saved extends Component {
                   ))}
                 </List>
               ) : (
-                <h2 className="text-center">No Saved Books</h2>
-              )}
+                  <h2 className="text-center">No Saved Books</h2>
+                )}
             </Card>
           </Col>
         </Row>

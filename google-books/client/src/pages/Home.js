@@ -104,8 +104,8 @@ class Home extends Component {
                   ))}
                 </List>
               ) : (
-                <h2 className="text-center">{this.state.message}</h2>
-              )}
+                  <h2 className="text-center">{this.state.message}</h2>
+                )}
             </Card>
           </Col>
         </Row>
